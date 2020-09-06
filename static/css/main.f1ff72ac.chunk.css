@@ -1,0 +1,2 @@
+.list{display:grid;grid-template-columns:30px;grid-row-gap:10px;row-gap:10px}.list__item{padding:5px;list-style:none}.selectedItem{background:grey}.selectedItem__btn-cancel{margin-left:20px;padding:0 20px;font-size:1.5rem;border-radius:20px;transition:.3s}.selectedItem__btn-cancel:hover{background:#dcdcdc}.selectedItem__btn-good{height:30px;width:400px;line-height:30px;text-align:center;border:1px solid #000;border-radius:20px;cursor:pointer;transition:.3s}.selectedItem__btn-good:hover{background-color:#dcdcdc}
+/*# sourceMappingURL=main.f1ff72ac.chunk.css.map */
